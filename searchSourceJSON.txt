@@ -1,0 +1,12 @@
+{
+\"index\":\"AWBcepPXMhxNtLqjCPxV\",
+\"query\":{
+	\"query_string\":{
+		\"query\":\"(appid: ebags* OR appid: gap* OR appid:homedepot* OR appid:jcpenney* OR appid:ag* OR appid: sears* OR appid:toysrus* OR appid:victoria* OR appid:BathAndBodyWorks* OR appid:northf* OR appid:abercr* OR appid:BedBathAndBeyond* OR appid:uniqlojp* OR appid:sephora* OR appid:Dicks* OR appid:nike* OR appid:follett* OR appid:screwfix* OR appid:zooplus* OR appid: landsend* OR appid:lyreco* OR appid:mensw* OR appid:josbank* OR appid:peapod* OR appid:adidas* OR appid:farfetch*) AND NOT (c-ip:72.44.239.9 OR appid:nikeglobal* OR appid:adidasspecialty*)\",
+		\"analyze_wildcard\":true
+		}
+	},
+\"filter\":[]
+}
+
+
